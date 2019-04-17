@@ -1,4 +1,5 @@
 package com.company;
+//package net.ilkmac.blog.loadimplementors.animals;
 
 public class RunnerInterfaceTest {
     public static void main(String[] args) {
